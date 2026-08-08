@@ -6,7 +6,7 @@
 
 - 🎓 Computer Science Student
 - 💻 Interested in Software Development, AI/ML & Web Development
-- 🌱 Currently learning Data Structures & Algorithms, JavaScript, React, and Machine Learning
+- 🌱 Currently learning Data Structures & Algorithms, Node.js, Express.js, Databases (PostgreSQL), React, and Machine Learning
 - 🚀 Building projects and exploring new technologies every day
 
 <p align="center">
