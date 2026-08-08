@@ -101,13 +101,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-zeta.vercel.app/?username=arpita0630&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arpita0630&style=for-the-badge&color=blueviolet" alt="Profile views" />
