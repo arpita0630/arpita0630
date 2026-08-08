@@ -60,7 +60,7 @@
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
 | 🤖 **AI Web Application** | Intelligent web app integrating AI capabilities with a modern, responsive UI. | `Python` `Django` `React` | [Code](https://github.com/arpita0630) |
-| 🌐 **Full-Stack Web App** | Dynamic web application powered by Node.js, Express, and PostgreSQL. | `Node.js` `Express` `PostgreSQL` | [Code](https://github.com/arpita0630) |
+| ⚡ **Task Sync** | Full-stack task management application with real-time sync & responsive interface. | `React` `Node.js` `Express` `PostgreSQL` | [Code](https://github.com/arpita0630/Task_Sync) |
 | 📊 **Data Analysis & ML** | Data science project analyzing data trends and predictive modeling. | `Python` `NumPy` `Pandas` | [Code](https://github.com/arpita0630) |
 
 ---
