@@ -10,7 +10,7 @@
 - 🚀 Building projects and exploring new technologies every day
 
 <p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="400">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work%20Culture/Girl%20coding.gif" width="400">
 </p>
 
 ---
