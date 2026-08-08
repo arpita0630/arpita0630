@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Arpita Mishra 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Python+%7C+Django+Lover;Computer+Science+Student;AI%2FML+%26+Web+Dev+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Python+%7C+Django+Lover;Full+Stack+Web+Developer;AI%2FML+%26+Web+Dev+Enthusiast;Enjoy+Building+AI+Web+Applications;Computer+Science+Student" alt="Typing SVG" />
 </p>
 
 - 🎓 Computer Science Student
