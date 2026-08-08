@@ -43,13 +43,13 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,java,py,django,vercel,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,postgres,java,py,django,vercel,git,github&theme=dark" />
 </p>
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
-| **Frameworks & Libraries** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> |
+| **Frameworks & Libraries** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> |
 | **Databases & Cloud** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Neon%20DB-00E599?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> |
 | **Tools & Platforms** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" /> |
 
@@ -59,9 +59,9 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| 🤖 **AI Web Application** | Intelligent web app integrating AI capabilities with a modern, responsive UI. | `Python` `Django` `React` | [Code](https://github.com/arpita0630) |
 | ⚡ **Task Sync** | Full-stack task management application with real-time sync & responsive interface. | `React` `Node.js` `Express` `PostgreSQL` | [Code](https://github.com/arpita0630/Task_Sync) |
-| 📊 **Data Analysis & ML** | Data science project analyzing data trends and predictive modeling. | `Python` `NumPy` `Pandas` | [Code](https://github.com/arpita0630) |
+| 🎯 **SkillGap** | Career readiness score analyzer & skill selection tool with personalized learning roadmaps. | `React` `Vite` `Tailwind CSS` | [Code](https://github.com/arpita0630/SkillGap) |
+| 🤖 **AI Web Application** | Intelligent web app integrating AI capabilities with a modern, responsive UI. | `Python` `Django` `React` | [Code](https://github.com/arpita0630) |
 
 ---
 
