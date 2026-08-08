@@ -61,7 +61,6 @@
 | :--- | :--- | :--- | :---: |
 | ⚡ **Task Sync** | Full-stack task management application with real-time sync & responsive interface. | `React` `Node.js` `Express` `PostgreSQL` | [Code](https://github.com/arpita0630/Task_Sync) |
 | 🎯 **SkillGap** | Career readiness score analyzer & skill selection tool with personalized learning roadmaps. | `React` `Vite` `Tailwind CSS` | [Code](https://github.com/arpita0630/SkillGap) |
-| 🤖 **AI Web Application** | Intelligent web app integrating AI capabilities with a modern, responsive UI. | `Python` `Django` `React` | [Code](https://github.com/arpita0630) |
 
 ---
 
