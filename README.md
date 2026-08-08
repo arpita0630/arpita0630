@@ -85,6 +85,18 @@
 
 ---
 
+### 📊 Pacman contribution animation :
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpita0630/arpita0630/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpita0630/arpita0630/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/arpita0630/arpita0630/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
